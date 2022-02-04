@@ -17,7 +17,7 @@ AsyncWebSocket ws("/ws");
 // Create an Event Source on /events
 AsyncEventSource events("/events");
 
-const char* host = "192.168.0.236";
+const char* host = "Your IPADDRESS to connect to";
 const int port = 8052;
 
 #define SS_PIN 5
