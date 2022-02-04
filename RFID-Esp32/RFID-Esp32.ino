@@ -3,8 +3,8 @@
 #include <AsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 /* change ssid and password according to yours WiFi*/
-const char* ssid     = "Digital Dream";
-const char* password = "digitaldream";
+const char* ssid     = "Your WIFI";
+const char* password = "Your PASSWORD";
 /*
  * This is the IP address of your PC
  * [Wins: use ipconfig command, Linux: use ifconfig command]
